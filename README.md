@@ -6,7 +6,7 @@ git add factorielle.py
 git add Fibo.py
 git add Polynome.py
 git commit -m"Dossier evaluation"
-git remote add origin 
+git remote add origin https://github.com/Chabana1101/Dossier.git
 git push -u origin master
 
 
