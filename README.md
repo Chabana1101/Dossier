@@ -1,5 +1,17 @@
-# Dossier
-Commandes : 
+# Commandes 
+cd desktop
+cd file
+git add Exeption.py
+git add factorielle.py
+git add Fibo.py
+git add Polynome.py
+git commit -m"Dossier evaluation"
+git remote add origin 
+git push -u origin master
+
+
+# Copie des résultats des commandes 
+
 (git add et git commit ne sont pas visibles car j'avais fermé la fenetre )
 
  MBP-de-Darmsy:~ chabanadl$ cd desktop
